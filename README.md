@@ -4,11 +4,11 @@ Repo for the Golem Workshop during ThinkR &amp; RStudio Roadshow 2019
 
 ## Wifi
 
-// To complete 
+anticage / bienvenue
 
 ## Access the RStudio Servers
 
-// To complete 
+https://rstd.io/class / thinkr
 
 ## PDF 
 
