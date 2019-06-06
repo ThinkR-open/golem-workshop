@@ -1,5 +1,7 @@
 # golem-workshop
 
+https://github.com/ThinkR-open/golem-workshop
+
 Repo for the Golem Workshop during ThinkR &amp; RStudio Roadshow 2019
 
 ## Wifi
